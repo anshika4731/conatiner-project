@@ -4,10 +4,10 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/UserService/UserService/pom.xml" />
-        <option value="$PROJECT_DIR$/FlightService/HotelService/pom.xml" />
-        <option value="$PROJECT_DIR$/RatingService/RatingService/pom.xml" />
-        <option value="$PROJECT_DIR$/ServiceRegistry/ServiceRegistry/pom.xml" />
+        <option value="$PROJECT_DIR$/FlightBooking/FlightBooking/pom.xml" />
+        <option value="$PROJECT_DIR$/HotelReservation/HotelReservation/pom.xml" />
+        <option value="$PROJECT_DIR$/CarRental/CarRental/pom.xml" />
+        <option value="$PROJECT_DIR$/TravelItineraryGeneration/TravelItineraryGeneration/pom.xml" />
       </list>
     </option>
   </component>
